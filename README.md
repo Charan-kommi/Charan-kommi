@@ -14,7 +14,7 @@
 
 ## 🧑‍💻 About Me
 
-I'm a **Cybersecurity Master's student at George Washington University** (GPA: 4.0) with a deep passion for securing digital infrastructure and finding vulnerabilities before attackers do. My work sits at the intersection of **offensive security**, **cloud security**, and **AI/LLM safety**.
+I'm a **Cybersecurity Master's student at George Washington University**  with a deep passion for securing digital infrastructure and finding vulnerabilities before attackers do. My work sits at the intersection of **offensive security**, **cloud security**, and **AI/LLM safety**.
 
 - 🎓 **MS Cybersecurity** @ GWU (2024–2026) | **B.Tech CS** @ GITAM University
 - 🔐 **CompTIA Security+ Certified** (SY0-701) | **AWS Cloud Security Builder**
